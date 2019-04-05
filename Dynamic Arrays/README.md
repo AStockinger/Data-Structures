@@ -1,0 +1,1 @@
+This program includes a dynamicArray.c file with implementations for dynamic array functions. The functions are tested with testDynArr.c, and they are implemented as a stack in stackapp.c to check that expressions containing [], {}, and () are balanced.
